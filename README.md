@@ -2,7 +2,7 @@
 
 Summer preparation ahead of my PhD in Computer Science at UCL (Oct 2026 – Sep 2030), supervised by Dr He Wang (Associate Professor in the Virtual Environment and Computer Graphics Group at the Department of Computer Science).
 
-**Theme:** compression × adversarial robustness × safety for AI models on embedded hardware. 
+**Theme:** compression × adversarial robustness × safety for AI models on embedded/embodied hardware. 
 This repo holds the code I build while working in this period - PyTorch foundations, adversarial attacks, model compression, transformers/LLMs, and on-device deployment.
 
 ## Structure

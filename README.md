@@ -2,7 +2,7 @@
 
 Notebooks from my summer 2026 preparation before starting a PhD in Computer Science at UCL (Oct 2026 – Sep 2030), supervised by Dr He Wang (Professor, Virtual Environment and Computer Graphics Group, UCL Computer Science).
 
-My PhD research focuses on model compression, continual learning and security for VLA models in embodied systems. This repo holds the PyTorch foundations that the work builds on.
+My PhD research focuses on model compression and embodied AI systems. This repo holds the PyTorch foundations that the work builds on.
 
 ## Contents
 
